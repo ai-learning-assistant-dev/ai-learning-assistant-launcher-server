@@ -1,1 +1,1 @@
-export const ARGS_MAX_LENGTH = 2000;
+export const ARGS_MAX_LENGTH = 200000;
